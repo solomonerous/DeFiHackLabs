@@ -2522,7 +2522,7 @@ https://x.com/ChainAegis/status/1779809931962827055
 ### Lost: ~560K
 
 ```sh
-forge test --match-contract ChaingeFinance_exp -vvv
+forge test --match-contract ChaingeFinance -vvv
 ```
 
 #### Contract
